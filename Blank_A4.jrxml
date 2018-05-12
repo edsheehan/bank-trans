@@ -12,7 +12,7 @@
 	<title>
 		<band height="79" splitType="Stretch">
 			<staticText>
-				<reportElement x="160" y="30" width="241" height="31" uuid="b42f4c69-bd99-43c7-b8b9-ff5d6e1629f0"/>
+				<reportElement x="140" y="30" width="261" height="31" uuid="b42f4c69-bd99-43c7-b8b9-ff5d6e1629f0"/>
 				<text><![CDATA[Sample]]></text>
 			</staticText>
 		</band>
